@@ -7,12 +7,6 @@ const ClosingSection = () => (
       <span className="text-5xl animate-rocket-float inline-block max-md:text-4xl" aria-hidden="true">
         🚀
       </span>
-      <span
-        className="text-3xl -mt-3 animate-flame-flicker origin-top inline-block drop-shadow-[0_0_12px_hsl(var(--gold))] max-md:text-2xl"
-        aria-hidden="true"
-      >
-        🔥
-      </span>
     </div>
     <h2 className="font-condensed text-[clamp(24px,6vw,80px)] font-extrabold uppercase tracking-tighter leading-none animate-fade-up max-md:text-[clamp(26px,9vw,48px)]">
       <span className="text-primary-light">Ready</span>
