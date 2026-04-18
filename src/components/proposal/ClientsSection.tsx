@@ -19,6 +19,7 @@ import meloImports from "@/assets/clients/melo-imports.png";
 import prediaco from "@/assets/clients/prediaco.png";
 import verejaoEconomia from "@/assets/clients/verejao-economia.png";
 import corpus from "@/assets/clients/corpus.png";
+import blimeyEnglish from "@/assets/clients/blimey-english.png";
 
 const clients = [
   { name: "Ateliê do Açaí", logo: atelieAcai },
@@ -42,6 +43,7 @@ const clients = [
   { name: "Prediaço Ferro e Aço", logo: prediaco },
   { name: "Varejão da Economia", logo: verejaoEconomia },
   { name: "Corpus Studio", logo: corpus },
+  { name: "Blimey English", logo: blimeyEnglish },
 ];
 
 const ClientsSection = () => (
