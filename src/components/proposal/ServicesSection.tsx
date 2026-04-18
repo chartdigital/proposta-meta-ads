@@ -8,6 +8,7 @@ const services = [
       "Campanhas de topo, meio e fundo de funil",
       "Teste A/B de criativos, copies e públicos",
       "Acompanhamento e otimizações semanais",
+      "Criação, análise e otimização de funil de vendas",
     ],
   },
   {
