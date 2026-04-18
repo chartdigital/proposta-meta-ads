@@ -25,11 +25,11 @@ const InvestmentSection = () => (
         </div>
         <div className="font-mono font-bold leading-none mb-2">
           <span className="text-lg text-accent align-super max-md:text-base">R$</span>
-          <span className="text-[clamp(36px,5vw,52px)] text-accent max-md:text-[36px]">1.000</span>
+          <span className="text-[clamp(36px,5vw,52px)] text-accent max-md:text-[36px]">1.200</span>
           <span className="text-sm text-muted-foreground font-normal">/mês</span>
         </div>
         <div className="text-[13px] text-muted-foreground leading-relaxed mt-2.5 max-md:text-[12px]">
-          Meta Ads (Facebook & Instagram), criativos, relatórios e suporte completo.
+          Meta Ads (Facebook & Instagram), ideação de criativos, relatórios e suporte completo.
         </div>
       </div>
 
