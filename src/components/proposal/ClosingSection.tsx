@@ -3,11 +3,21 @@ const ClosingSection = () => (
     <p className="text-[11px] tracking-[4px] uppercase text-primary-light font-medium animate-fade-up max-md:text-[10px] max-md:tracking-[3px]">
       Vamos começar?
     </p>
-    <span className="text-4xl animate-fade-up max-md:text-3xl">🚀</span>
+    <div className="relative inline-flex flex-col items-center animate-fade-up">
+      <span className="text-5xl animate-rocket-float inline-block max-md:text-4xl" aria-hidden="true">
+        🚀
+      </span>
+      <span
+        className="text-3xl -mt-3 animate-flame-flicker origin-top inline-block drop-shadow-[0_0_12px_hsl(var(--gold))] max-md:text-2xl"
+        aria-hidden="true"
+      >
+        🔥
+      </span>
+    </div>
     <h2 className="font-condensed text-[clamp(24px,6vw,80px)] font-extrabold uppercase tracking-tighter leading-none animate-fade-up max-md:text-[clamp(26px,9vw,48px)]">
-      <span className="text-primary-light">Murilo Hernandes</span>
+      <span className="text-primary-light">Ready</span>
       <br />
-      dominando o Meta
+      to grow!
     </h2>
     <p className="text-[clamp(14px,1.5vw,18px)] text-muted-foreground max-w-[520px] leading-relaxed animate-fade-up max-md:text-[14px]">
       Estamos prontos para posicionar sua marca como referência no Facebook e Instagram. Vamos transformar
