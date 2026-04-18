@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Roboto+Condensed:wght@700;800&family=Roboto+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 228 50% 2%;
+    --foreground: 0 0% 100%;
+
+    --card: 228 50% 2%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 228 50% 2%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 222 100% 55%;
+    --primary-foreground: 0 0% 100%;
+    --primary-light: 222 100% 65%;
+    --primary-glow: 222 100% 55% / 0.18;
+
+    --secondary: 220 20% 18%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 15% 40%;
+    --muted-foreground: 220 20% 75%;
+
+    --accent: 150 70% 48%;
+    --accent-foreground: 0 0% 100%;
+
+    --gold: 42 86% 60%;
+    --gold-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 100% / 0.08;
+    --input: 0 0% 100% / 0.08;
+    --ring: 222 100% 55%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 228 50% 2%;
+    --sidebar-foreground: 220 20% 75%;
+    --sidebar-primary: 222 100% 55%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 15% 10%;
+    --sidebar-accent-foreground: 220 20% 75%;
+    --sidebar-border: 0 0% 100% / 0.08;
+    --sidebar-ring: 222 100% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    overflow-x: hidden;
+  }
+}
+
+/* Animations */
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(1.4); }
+}
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(calc(-100% / 3)); }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.7s ease forwards;
+}
+
+.animate-pulse-dot {
+  animation: pulse-dot 1.8s infinite;
+}
+
+.animate-ticker {
+  animation: ticker-scroll 40s linear infinite;
+}
+
+.animate-ticker:hover {
+  animation-play-state: paused;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 25s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
