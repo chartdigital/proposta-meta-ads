@@ -13,12 +13,13 @@ const services = [
   },
   {
     tag: "🎨 Criativos",
-    title: "Produção de Criativos",
+    title: "Ideação de Criativos",
     items: [
       "Briefing estratégico alinhado ao posicionamento da marca",
-      "Criativos em formato estático, carrossel e vídeo curto",
-      "Copies persuasivos com foco em conversão",
-      "Adaptação de formatos para Feed, Stories e Reels",
+      "Sugestões de ideias e conceitos para criativos (estático, carrossel e vídeo curto)",
+      "Direcionamento de copies persuasivos com foco em conversão",
+      "Orientação de formatos para Feed, Stories e Reels",
+      "Obs.: a produção/edição dos criativos fica a cargo do cliente",
     ],
   },
   {
