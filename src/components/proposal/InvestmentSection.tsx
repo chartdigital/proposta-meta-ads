@@ -10,7 +10,7 @@ const InvestmentSection = () => (
     <p className="text-[clamp(15px,1.4vw,18px)] text-muted-foreground leading-relaxed max-w-[720px] mb-10 animate-fade-up max-md:text-[14px] max-md:mb-6">
       O investimento é composto pela <strong className="text-foreground">gestão mensal</strong> dos serviços de
       marketing digital e pelo{" "}
-      <strong className="text-foreground">investimento em mídia pago diretamente ao Google</strong>, separado e
+      <strong className="text-foreground">investimento em mídia pago diretamente à Meta</strong>, separado e
       sob seu controle total.
     </p>
 
@@ -29,7 +29,7 @@ const InvestmentSection = () => (
           <span className="text-sm text-muted-foreground font-normal">/mês</span>
         </div>
         <div className="text-[13px] text-muted-foreground leading-relaxed mt-2.5 max-md:text-[12px]">
-          Google Ads, Google Meu Negócio, SEO local, relatórios e suporte completo.
+          Meta Ads (Facebook & Instagram), criativos, relatórios e suporte completo.
         </div>
       </div>
 
@@ -39,7 +39,7 @@ const InvestmentSection = () => (
           Investimento em Mídia
         </div>
         <div className="font-condensed text-base font-extrabold uppercase text-muted-foreground mb-5 max-md:mb-3 max-md:text-sm">
-          Google Ads
+          Meta Ads
         </div>
         <div className="font-mono font-bold leading-none mb-2">
           <span className="text-lg text-gold align-super max-md:text-base">R$</span>
@@ -47,14 +47,14 @@ const InvestmentSection = () => (
           <span className="text-sm text-muted-foreground font-normal">/mês</span>
         </div>
         <div className="text-[13px] text-muted-foreground leading-relaxed mt-2.5 max-md:text-[12px]">
-          Valor sugerido para campanhas de pesquisa e remarketing no Google Ads.
+          Valor sugerido para campanhas de Facebook e Instagram Ads.
         </div>
       </div>
     </div>
 
     <div className="bg-primary/[0.07] border-l-[3px] border-primary rounded-r px-5 py-4 text-[13px] text-muted-foreground leading-relaxed mt-7 max-w-[700px] animate-fade-up max-md:px-4 max-md:py-3 max-md:text-[12px] max-md:mt-4">
       <strong className="text-primary-light">Transparência total:</strong> Os valores de mídia são pagos
-      diretamente por você ao Google — a Chart não intermedia esse valor. Você tem visibilidade e controle
+      diretamente por você à Meta — a Chart não intermedia esse valor. Você tem visibilidade e controle
       completos sobre cada real investido em tráfego.
     </div>
   </section>
