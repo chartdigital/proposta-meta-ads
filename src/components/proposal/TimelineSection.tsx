@@ -4,28 +4,28 @@ const timeline = [
     active: true,
     month: "Etapa 1",
     title: "Diagnóstico & Setup",
-    desc: "Análise do mercado jurídico local, setup do Google Ads, otimização do Google Meu Negócio e definição das palavras-chave estratégicas.",
+    desc: "Análise do mercado, do público-alvo e dos concorrentes. Configuração do Business Manager, Pixel da Meta e estrutura de campanhas estratégicas.",
   },
   {
     id: "E2",
     active: true,
     month: "Etapa 2",
     title: "Primeiros Resultados",
-    desc: "Campanhas ativas gerando os primeiros leads, otimizações baseadas em dados e expansão das palavras-chave.",
+    desc: "Campanhas ativas gerando os primeiros leads e vendas. Otimizações baseadas em dados, testes de criativos e expansão de públicos.",
   },
   {
     id: "E3",
     active: false,
     month: "Etapa 3",
     title: "Otimização & Escala",
-    desc: "Refinamento de campanhas, remarketing ativo, aumento do CTR e redução do custo por lead.",
+    desc: "Refinamento de campanhas, ativação de remarketing, aumento do ROAS e redução do custo por resultado.",
   },
   {
     id: "E4",
     active: false,
     month: "Etapa 4+",
     title: "Crescimento Contínuo",
-    desc: "Escala das campanhas mais rentáveis, SEO gerando resultados orgânicos e presença consolidada no Google Maps.",
+    desc: "Escala das campanhas mais rentáveis, lookalike audiences e posicionamento consolidado no Facebook e Instagram.",
   },
 ];
 

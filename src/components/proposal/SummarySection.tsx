@@ -7,12 +7,12 @@ const SummarySection = () => (
       Resumo
     </h2>
     <div className="border border-foreground/[0.08] border-l-4 border-l-primary bg-foreground/[0.04] rounded px-11 py-9 text-[clamp(15px,1.5vw,19px)] leading-[1.85] text-muted-foreground max-w-[860px] animate-fade-up max-md:px-5 max-md:py-5 max-md:text-[14px] max-md:leading-[1.75]">
-      Nossa estratégia com a <strong className="text-foreground font-medium">CM Advogados</strong> é construir
-      uma presença digital forte no <strong className="text-foreground font-medium">Google</strong>, garantindo
-      que o escritório seja encontrado por potenciais clientes no momento exato em que estão buscando por serviços
-      jurídicos. Através de{" "}
-      <strong className="text-foreground font-medium">Google Ads, Google Meu Negócio e SEO local</strong>,
-      vamos posicionar a CM Advogados como referência na região gerando contatos qualificados.
+      Nossa estratégia com <strong className="text-foreground font-medium">Murilo Hernandes</strong> é construir
+      uma presença digital forte no <strong className="text-foreground font-medium">Facebook e Instagram</strong>,
+      garantindo que a marca seja encontrada por potenciais clientes no momento exato em que estão buscando por
+      seus serviços. Através de{" "}
+      <strong className="text-foreground font-medium">Meta Ads (Facebook Ads & Instagram Ads)</strong>,
+      vamos posicionar Murilo como referência no seu mercado, atraindo o público certo no momento certo.
     </div>
   </section>
 );

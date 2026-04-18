@@ -55,11 +55,10 @@ const AboutSection = () => {
           </p>
           <br />
       <p>
-        Nossa missão é transformar visibilidade em clientes reais, através de estratégias de tráfego pago
-        no <strong className="text-foreground font-medium">Google Ads</strong>, otimização de{" "}
-        <strong className="text-foreground font-medium">Google Meu Negócio</strong> e{" "}
-        <strong className="text-foreground font-medium">SEO local</strong>, entregando resultados mensuráveis
-        para escritórios de advocacia.
+        Nossa missão é transformar audiência em clientes reais, através de estratégias de tráfego pago no{" "}
+        <strong className="text-foreground font-medium">Facebook Ads</strong> e{" "}
+        <strong className="text-foreground font-medium">Instagram Ads</strong>, com criação de criativos,
+        segmentação inteligente e gestão orientada a resultados mensuráveis.
       </p>
         </div>
 

@@ -5,13 +5,13 @@ const ClosingSection = () => (
     </p>
     <span className="text-4xl animate-fade-up max-md:text-3xl">🚀</span>
     <h2 className="font-condensed text-[clamp(24px,6vw,80px)] font-extrabold uppercase tracking-tighter leading-none animate-fade-up max-md:text-[clamp(26px,9vw,48px)]">
-      A <span className="text-primary-light">CM Advogados</span>
+      <span className="text-primary-light">Murilo Hernandes</span>
       <br />
-      no topo do Google
+      dominando o Meta
     </h2>
     <p className="text-[clamp(14px,1.5vw,18px)] text-muted-foreground max-w-[520px] leading-relaxed animate-fade-up max-md:text-[14px]">
-      Estamos prontos para posicionar seu escritório como referência na região. Vamos transformar buscas em clientes
-      reais.
+      Estamos prontos para posicionar sua marca como referência no Facebook e Instagram. Vamos transformar
+      audiência em clientes reais.
     </p>
     <a
       href="https://wa.me/5537999388448"

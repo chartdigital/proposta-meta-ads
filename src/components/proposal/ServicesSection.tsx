@@ -1,22 +1,23 @@
 const services = [
   {
-    tag: "🔍 Google Ads",
-    title: "Gestão de Campanhas Google",
+    tag: "📱 Meta Ads",
+    title: "Gestão de Campanhas Meta",
     items: [
-      "Criação e otimização de campanhas na Rede de Pesquisa",
-      "Segmentação por palavras-chave jurídicas de alta intenção",
-      "Campanhas de Rede de Display para remarketing",
-      "Teste A/B de anúncios e extensões",
+      "Criação e otimização de campanhas no Facebook e Instagram",
+      "Segmentação avançada por público, interesse e comportamento",
+      "Campanhas de topo, meio e fundo de funil",
+      "Teste A/B de criativos, copies e públicos",
       "Acompanhamento e otimizações semanais",
     ],
   },
   {
-    tag: "📍 SEO & Google Meu Negócio",
-    title: "Otimização para Motores de Busca",
+    tag: "🎨 Criativos",
+    title: "Produção de Criativos",
     items: [
-      "Criação e/ou otimização completa do perfil no Google Meu Negócio",
-      "Otimização para aparecer no Google Maps",
-      "Pesquisa de palavras-chave do setor jurídico",
+      "Briefing estratégico alinhado ao posicionamento da marca",
+      "Criativos em formato estático, carrossel e vídeo curto",
+      "Copies persuasivos com foco em conversão",
+      "Adaptação de formatos para Feed, Stories e Reels",
     ],
   },
   {
@@ -65,7 +66,7 @@ const ServicesSection = () => (
       <span>⚠️</span>
       <span>
         <strong className="text-gold">Importante:</strong> A produção de landing pages ou sites não está inclusa.
-        Fornecemos sugestões detalhadas de copy e estrutura — a execução fica a cargo da CM Advogados ou de um
+        Fornecemos sugestões detalhadas de copy e estrutura — a execução fica a cargo de Murilo Hernandes ou de um
         desenvolvedor de sua preferência.
       </span>
     </div>
