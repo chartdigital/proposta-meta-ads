@@ -9,9 +9,9 @@ const ClosingSection = () => (
       </span>
     </div>
     <h2 className="font-condensed text-[clamp(24px,6vw,80px)] font-extrabold uppercase tracking-tighter leading-none animate-fade-up max-md:text-[clamp(26px,9vw,48px)]">
-      <span className="text-primary-light">Ready</span>
+      <span className="text-primary-light">READY</span>
       <br />
-      to grow!
+      TO GROW?
     </h2>
     <p className="text-[clamp(14px,1.5vw,18px)] text-muted-foreground max-w-[520px] leading-relaxed animate-fade-up max-md:text-[14px]">
       Estamos prontos para posicionar sua marca como referência no Facebook e Instagram. Vamos transformar
