@@ -13,7 +13,7 @@ const services = [
   },
   {
     tag: "🎨 Criativos",
-    title: "Ideação de Criativos",
+    title: "Gestão de Criativos",
     items: [
       "Briefing estratégico alinhado ao posicionamento da marca",
       "Sugestões de ideias e conceitos para criativos (estático, carrossel e vídeo curto)",

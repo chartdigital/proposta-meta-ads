@@ -29,7 +29,7 @@ const InvestmentSection = () => (
           <span className="text-sm text-muted-foreground font-normal">/mês</span>
         </div>
         <div className="text-[13px] text-muted-foreground leading-relaxed mt-2.5 max-md:text-[12px]">
-          Meta Ads (Facebook & Instagram), ideação de criativos, relatórios e suporte completo.
+          Meta Ads (Facebook & Instagram), gestão de criativos, relatórios e suporte completo.
         </div>
       </div>
 
