@@ -29,7 +29,7 @@ const Index = () => (
     <ClosingSection />
     <footer className="relative z-[1] border-t border-foreground/[0.08] px-[10vw] py-5 flex justify-between items-center text-xs text-muted-foreground tracking-wider flex-wrap gap-2 max-md:px-6 max-md:flex-col max-md:items-start max-md:gap-1 max-md:text-[10px] max-md:py-4">
       <span>© 2026 Agência Chart · Todos os direitos reservados</span>
-      <span>Proposta exclusiva para Murilo Hernandes</span>
+      <span>Proposta exclusiva para Rosa Mineira</span>
     </footer>
   </>
 );
