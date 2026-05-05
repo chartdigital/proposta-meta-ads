@@ -64,14 +64,6 @@ const ServicesSection = () => (
       ))}
     </div>
 
-    <div className="bg-gold/[0.07] border border-gold/30 rounded-md px-6 py-4 text-[13px] text-gold flex items-start gap-3 leading-relaxed mt-5 animate-fade-up max-md:px-4 max-md:py-3 max-md:text-[12px] max-md:gap-2 max-md:mt-3">
-      <span>⚠️</span>
-      <span>
-        <strong className="text-gold">Importante:</strong> A produção de landing pages ou sites não está inclusa.
-        Fornecemos sugestões detalhadas de copy e estrutura — a execução fica a cargo da Rosa Mineira ou de um
-        desenvolvedor de sua preferência.
-      </span>
-    </div>
   </section>
 );
 
