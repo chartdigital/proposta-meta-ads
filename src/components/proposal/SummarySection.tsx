@@ -7,12 +7,12 @@ const SummarySection = () => (
       Resumo
     </h2>
     <div className="border border-foreground/[0.08] border-l-4 border-l-primary bg-foreground/[0.04] rounded px-11 py-9 text-[clamp(15px,1.5vw,19px)] leading-[1.85] text-muted-foreground max-w-[860px] animate-fade-up max-md:px-5 max-md:py-5 max-md:text-[14px] max-md:leading-[1.75]">
-      Nossa estratégia com <strong className="text-foreground font-medium">Murilo Hernandes</strong> é construir
+      Nossa estratégia com a <strong className="text-foreground font-medium">Rosa Mineira</strong> é construir
       uma presença digital forte no <strong className="text-foreground font-medium">Facebook e Instagram</strong>,
-      garantindo que a marca seja encontrada por potenciais clientes no momento exato em que estão buscando por
-      seus serviços. Através de{" "}
+      posicionando a marca como referência na <strong className="text-foreground font-medium">venda de roupas plus size no atacado</strong>,
+      conectando-a a lojistas e revendedoras de todo o Brasil. Através de{" "}
       <strong className="text-foreground font-medium">Meta Ads (Facebook Ads & Instagram Ads)</strong>,
-      vamos posicionar Murilo como referência no seu mercado, atraindo o público certo no momento certo.
+      vamos atrair compradores qualificados, fortalecer a autoridade da marca e gerar pedidos de atacado de forma consistente.
     </div>
   </section>
 );
