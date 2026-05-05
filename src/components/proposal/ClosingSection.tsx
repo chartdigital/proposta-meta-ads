@@ -18,7 +18,7 @@ const ClosingSection = () => (
       audiência em clientes reais.
     </p>
     <a
-      href="https://wa.me/5537999388448"
+      href="https://wa.me/5537999629861"
       target="_blank"
       rel="noopener noreferrer"
       className="bg-primary text-foreground rounded px-10 py-4 font-condensed text-sm font-bold tracking-[2px] uppercase transition-all hover:bg-primary-light hover:-translate-y-0.5 mt-2 inline-block animate-fade-up max-md:w-full max-md:text-center max-md:px-6 max-md:py-3.5 max-md:text-[13px]"
