@@ -68,7 +68,7 @@ const ServicesSection = () => (
       <span>⚠️</span>
       <span>
         <strong className="text-gold">Importante:</strong> A produção de landing pages ou sites não está inclusa.
-        Fornecemos sugestões detalhadas de copy e estrutura — a execução fica a cargo de Murilo Hernandes ou de um
+        Fornecemos sugestões detalhadas de copy e estrutura — a execução fica a cargo da Rosa Mineira ou de um
         desenvolvedor de sua preferência.
       </span>
     </div>
